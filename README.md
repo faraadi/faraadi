@@ -1,8 +1,6 @@
-<center>
-Hey! I'm Farhad.
-
+<p align="center">
+Hey! I'm Farhad.<br/>
 A passionated web developer, based in Tehran, Iran.
-
 <div style="display: flex; justify-content: center">
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=teal&label=)
@@ -11,29 +9,31 @@ A passionated web developer, based in Tehran, Iran.
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=teal&label)
 
 </div>
-</center>
 
-<center>
-<div style="display:flex; align-items: baseline; justify-content: center">
+</p>
+
+<div align="center">
 
 [![Farhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=faraadi&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faraadi&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-<div style="display:flex; justify-content: center">
+<div align="center">
+<span>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faraadi&repo=nord-ui&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
+</span>
+<span>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faraadi&repo=mailspring-nord-theme&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+</span>
 </div>
 
-</center>
 
 # 🛠 Frameworks and Tools
-<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-		alt="javascript" width="40" height="40" />
 </a> -->
 <a href="https://reactjs.org/" target="_blank">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
@@ -50,8 +50,8 @@ A passionated web developer, based in Tehran, Iran.
 <a href="https://nuxtjs.org/" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" />
 </a>
-
-
+<br/>
+<br/>
 ##  🤝&nbsp; Connect with Me
 
 <p align="center">
@@ -65,7 +65,7 @@ A passionated web developer, based in Tehran, Iran.
 		<img src="https://img.shields.io/badge/-faradidev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
 	</a>
 </p>
-
+<br/>
 <hr/>
 
 BTW I use Arch Linux 🤘
