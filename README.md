@@ -1,7 +1,7 @@
 <p align="center">
 Hey! I'm Farhad.<br/>
 A passionated web developer, based in Tehran, Iran.
-<div style="display: flex; justify-content: center">
+<div align="center">
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=teal&label=)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=teal&label=)
@@ -13,28 +13,17 @@ A passionated web developer, based in Tehran, Iran.
 </p>
 
 <div align="center">
-
-[![Farhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=faraadi&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faraadi&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faraadi&show_icons=true&theme=nord" alt="Farhad Sharifi's GitHub stats"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraadi&layout=compact&theme=nord" alt="Farhad Sharifi's Top languages" />
+</a>
 </div>
+<br/>
 
-<div align="center">
-<span>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faraadi&repo=nord-ui&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-</span>
-<span>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faraadi&repo=mailspring-nord-theme&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-</span>
-</div>
-
-
-# 🛠 Frameworks and Tools
-</a> -->
+## 🛠 Frameworks and Tools
+</a>
 <a href="https://reactjs.org/" target="_blank">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
 </a>
@@ -52,6 +41,19 @@ A passionated web developer, based in Tehran, Iran.
 </a>
 <br/>
 <br/>
+
+## Pinned Repositories
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faraadi&repo=nord-ui&theme=nord" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faraadi&repo=mailspring-nord-theme&theme=nord" />
+</a>
+</div>
+<br/>
+
 ##  🤝&nbsp; Connect with Me
 
 <p align="center">
